@@ -3,7 +3,6 @@
 
 Coming Soon:
 
-1. Twitter bot
-2. Reddit bot
-3. Gesture Analyser
-4. Indian Sign Language Translator
+1. Twitter weather bot
+2. Gesture Analyser
+3. Indian Sign Language Translator 
